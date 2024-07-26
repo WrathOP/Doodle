@@ -1,3 +1,12 @@
-# draw_and_guess
+# Doodle
 
-A new Flutter project.
+## Description
+A simple game where you can draw and guess what others have drawn.
+
+## Installation
+1. Clone the repository
+2. Setup firebase 
+3. Flutter pub get
+4. Flutter run -d chrome
+5. Enjoy the game
+

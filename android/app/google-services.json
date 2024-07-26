@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075425805416",
+    "project_id": "draw-guess-game-9291a",
+    "storage_bucket": "draw-guess-game-9291a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075425805416:android:8b8fb8eb09600d677627dd",
+        "android_client_info": {
+          "package_name": "app.ifeanyi.draw_and_guess.prod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFiZ7T5Zk2vBpzsJSbXPiivIbp1DHiSSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
